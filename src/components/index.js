@@ -1,0 +1,6 @@
+export { Header } from './Header'
+export { Footer } from './Footer'
+export { AdCard } from './AdCard'
+export { Pricing } from './Pricing'
+export { ServiceCard } from './ServiceCard'
+export { PriceTable } from './PriceTable'
